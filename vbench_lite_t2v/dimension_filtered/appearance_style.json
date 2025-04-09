@@ -1,0 +1,92 @@
+[
+  {
+      "id": "001",
+      "original_id": "001",
+      "description": "A beautiful coastal beach in spring, waves lapping on sand, Van Gogh style",
+      "long_description": "A tranquil coastal beach unfolds in spring, with waves gently lapping against the sandy shore. The scene bursts with Van Gogh,s signature swirling brushstrokes, transforming the sky into a vibrant blend of blues and yellows. Wildflowers sway along the dunes, their colors vivid yet impressionistic, while seagulls drift overhead, adding subtle motion. The entire landscape pulses with textured, expressive energy, capturing the essence of a serene seaside moment.",
+      "original_long_description": "A breathtaking coastal beach in spring, with gentle waves lapping against the golden sand, is depicted in the vibrant, swirling brushstrokes of Van Gogh. The sky is a mesmerizing blend of azure and soft white clouds, painted with dynamic, expressive strokes. The turquoise sea shimmers with hints of emerald and sapphire, each wave cresting with a touch of frothy white. The beach is dotted with delicate wildflowers in shades of lavender, yellow, and pink, their colors vivid and alive. The entire scene is infused with the energy and movement characteristic of Van Gogh's style, creating a dreamlike, enchanting atmosphere.",
+      "dimension": ["appearance_style"],
+      "test_purpose": "To evaluate the AI model,s ability to render natural landscapes with Van Gogh,s impressionistic style, focusing on swirling brushstrokes and vibrant, expressive colors.",
+      "Improvement": "Introduced seagulls for added dynamism and simplified specific color references (e.g., avoiding exact shades like turquoise or sapphire) to give the model flexibility while preserving the style,s essence."
+  },
+  {
+      "id": "002",
+      "original_id": "011",
+      "description": "The bund Shanghai, oil painting",
+      "long_description": "The Bund in Shanghai glows under a twilight sky, its historic buildings lining the waterfront with intricate detail. A small boat drifts along the Huangpu River, its wake rippling across the water. The scene, rendered in oil painting style, features rich, layered brushstrokes that highlight the architecture,s textures and the river,s reflective surface, bathed in warm hues of the setting sun.",
+      "original_long_description": "A mesmerizing oil painting captures the essence of The Bund in Shanghai, with its iconic skyline bathed in the warm hues of a setting sun. The historic buildings, rendered in intricate detail, stand proudly along the waterfront, their architectural grandeur highlighted by the artist's masterful brushstrokes. The Huangpu River glistens with reflections of the city lights, creating a shimmering pathway that leads the eye through the scene. In the foreground, a few traditional boats gently float, adding a touch of nostalgia to the modern cityscape. The sky, painted in a blend of oranges, pinks, and purples, casts a magical glow over the entire composition, evoking a sense of timeless beauty and tranquility.",
+      "dimension": ["appearance_style"],
+      "test_purpose": "To assess the model,s capacity to depict urban architecture and water reflections in a traditional oil painting style, emphasizing texture and lighting.",
+      "Improvement": "Focused on a single boat to streamline the scene,s narrative and avoided overly specific sky colors (e.g., oranges, pinks) to allow creative interpretation, enhancing adaptability for video generation."
+  },
+  {
+      "id": "003",
+      "original_id": "021",
+      "description": "a shark is swimming in the ocean by Hokusai, in the style of Ukiyo",
+      "long_description": "A formidable shark cruises through the ocean depths, its silhouette framed by flowing waves etched in Hokusai,s Ukiyo-e style. The water swirls with elegant, woodblock-inspired lines, blending deep blues with hints of frothy white. Schools of fish scatter in the background, their forms simplified yet graceful, as the shark moves with serene power, embodying the harmony of nature,s strength.",
+      "original_long_description": "A majestic shark glides through the deep blue ocean, its sleek form captured in the iconic style of Hokusai's Ukiyo-e art. The shark's body is adorned with intricate wave patterns, reminiscent of Hokusai's famous \"The Great Wave off Kanagawa,\" blending seamlessly with the swirling, stylized waves around it. The ocean is depicted with rich, flowing lines and vibrant shades of blue, creating a dynamic and harmonious scene. The shark's eyes are expressive, reflecting the serene yet powerful essence of the sea. The background features delicate, traditional Japanese motifs, adding depth and cultural richness to the composition.",
+      "dimension": ["appearance_style"],
+      "test_purpose": "To test the model,s ability to render underwater dynamics and marine life in Hokusai,s Ukiyo-e style, focusing on flowing lines and cultural motifs.",
+      "Improvement": "Omitted specific references to ‘The Great Wave off Kanagawa, to broaden applicability and added fish for context, enhancing the scene,s liveliness without overcomplicating it."
+  },
+  {
+      "id": "004",
+      "original_id": "031",
+      "description": "A panda drinking coffee in a cafe in Paris, black and white",
+      "long_description": "In a cozy Parisian café, a panda sits at a small table, sipping coffee from a porcelain cup. The black-and-white scene emphasizes the contrast between the panda,s fur and the café,s vintage decor—checkered floors and ornate mirrors. Light streams through a window, casting soft shadows as the panda, adorned with a beret, gazes thoughtfully, steam rising gently from the cup.",
+      "original_long_description": "In a quaint Parisian café, a panda sits at a small round table, sipping coffee from a delicate porcelain cup. The scene is captured in black and white, highlighting the panda's distinctive markings against the café's classic decor. The panda, wearing a beret and a striped scarf, gazes thoughtfully out the window, where the Eiffel Tower is faintly visible in the background. The café's vintage interior, with its checkered floor and ornate mirrors, adds to the charm. The panda's gentle movements and the steam rising from the coffee cup create a serene, almost whimsical atmosphere, blending the exotic with the everyday in the heart of Paris.",
+      "dimension": ["appearance_style"],
+      "test_purpose": "To evaluate the model,s skill in generating character-focused indoor scenes in black-and-white, emphasizing contrast and subtle motion like steam.",
+      "Improvement": "Removed the Eiffel Tower reference to focus on the interior, enhancing the scene,s intimacy, and simplified attire to a beret for clarity, avoiding over-specification."
+  },
+  {
+      "id": "005",
+      "original_id": "041",
+      "description": "A cute happy Corgi playing in park, sunset, pixel art",
+      "long_description": "A cheerful Corgi bounds across a park at sunset, its pixelated form leaping after a ball. The sky glows with warm hues, rendered in a gradient of pixel blocks, while the grass and trees shimmer with retro digital charm. The Corgi,s ears flap and tail wags, capturing playful energy in a concise, vibrant pixel art style.",
+      "original_long_description": "A pixel art scene of a joyful Corgi with a fluffy tail and perky ears, frolicking in a vibrant park at sunset. The Corgi, with its golden fur and white markings, chases a pixelated red ball across a lush, green field. The sky is a gradient of warm oranges and pinks, with pixelated sun rays casting a golden glow over the scene. Trees with pixelated leaves sway gently in the background, and a small pond reflects the sunset hues. The Corgi leaps and bounds, its pixelated tongue hanging out in pure delight, capturing the essence of playful happiness in this charming, retro-inspired setting.",
+      "dimension": ["appearance_style"],
+      "test_purpose": "To assess the model,s capability to animate dynamic animal motion in a pixel art style, balancing retro aesthetics with lively movement.",
+      "Improvement": "Streamlined the scene by focusing on the Corgi and ball, omitting extras like the pond to keep the focus on motion, and generalized colors for broader interpretation."
+  },
+  {
+      "id": "006",
+      "original_id": "051",
+      "description": "Gwen Stacy reading a book, in cyberpunk style",
+      "long_description": "Gwen Stacy sits in a neon-drenched room, engrossed in a holographic book glowing with shifting text. Her futuristic outfit—sleek jacket with glowing lines—reflects the room,s electric hues of blue and purple. Floating screens hum around her, and outside, a cityscape of towering neon-lit structures pulses, blending high-tech ambiance with quiet focus.",
+      "original_long_description": "Gwen Stacy, with her platinum blonde hair styled in a sleek bob, sits in a dimly lit, neon-infused room, her eyes focused on a holographic book. She wears a futuristic leather jacket adorned with glowing blue circuitry patterns, paired with sleek black pants and high-tech boots. The room is filled with floating digital screens and neon signs, casting vibrant hues of pink, blue, and purple. As she turns a page, the holographic text illuminates her face, reflecting the cyberpunk aesthetic. The background features towering skyscrapers with neon lights and flying vehicles, creating a dynamic, high-tech atmosphere.",
+      "dimension": ["appearance_style"],
+      "test_purpose": "To test the model,s rendering of a static character in a cyberpunk environment, integrating futuristic elements like holography and neon lighting.",
+      "Improvement": "Generalized the outfit description to allow stylistic freedom and omitted specific hair details, focusing on the cyberpunk atmosphere to enhance adaptability."
+  },
+  {
+      "id": "007",
+      "original_id": "061",
+      "description": "A boat sailing leisurely along the Seine River with the Eiffel Tower in background, animated style",
+      "long_description": "A quaint boat drifts along the Seine River, its sails fluttering in a gentle breeze, animated with smooth, flowing lines. The Eiffel Tower rises in the distance, its latticework vivid against a sunset sky of warm tones. Trees along the banks sway, and the water ripples playfully, creating a charming, cartoon-like Parisian vista.",
+      "original_long_description": "A charming animated scene unfolds with a quaint boat, adorned with colorful flags, sailing leisurely along the serene Seine River. The boat's gentle movement creates ripples in the water, reflecting the soft hues of the setting sun. In the background, the iconic Eiffel Tower stands majestically, its intricate iron latticework beautifully detailed in the animation. The sky is painted in warm shades of orange and pink, with fluffy clouds drifting lazily. Along the riverbanks, animated trees sway gently in the breeze, and Parisian buildings, with their classic architecture, add to the enchanting atmosphere. The entire scene exudes a sense of tranquility and romance, capturing the essence of a peaceful evening in Paris.",
+      "dimension": ["appearance_style"],
+      "test_purpose": "To evaluate the model,s ability to animate water motion and iconic landmarks in an animated style, emphasizing fluid transitions and charm.",
+      "Improvement": "Simplified the scene by removing flags and buildings to focus on the boat and Eiffel Tower, enhancing clarity and motion focus for video generation."
+  },
+  {
+      "id": "008",
+      "original_id": "071",
+      "description": "A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, watercolor painting",
+      "long_description": "A couple in elegant evening wear—a tuxedo and a flowing gown—rushes through a city street, caught in a torrential downpour. Their umbrellas tilt against the rain, rendered in watercolor,s soft, translucent strokes. Streetlights blur into warm smudges, reflecting on wet pavement, as the scene captures the spontaneity of weather clashing with formality.",
+      "original_long_description": "A sophisticated couple, dressed in elegant evening attire, navigates a bustling city street under a heavy downpour. The man, in a sharp black tuxedo, holds a large black umbrella, while the woman, in a flowing red gown, clutches a delicate white parasol. The watercolor painting captures the vibrant reflections of city lights on wet pavement, with blurred figures and cars adding to the dynamic scene. Raindrops create a misty atmosphere, softening the edges of buildings and streetlights. The couple's expressions convey a mix of surprise and amusement, their formal wear contrasting beautifully with the chaotic, rain-soaked urban backdrop.",
+      "dimension": ["appearance_style"],
+      "test_purpose": "To assess the model,s rendering of dynamic weather effects and human figures in watercolor, focusing on soft blending and motion.",
+      "Improvement": "Omitted specific colors and parasol details to broaden creative scope, emphasizing rain,s motion over static elements like cars for a more dynamic video test."
+  },
+  {
+      "id": "009",
+      "original_id": "081",
+      "description": "An astronaut flying in space, surrealism style",
+      "long_description": "An astronaut drifts through a surreal cosmos, their suit reflecting a kaleidoscope of swirling colors. Nebulae twist into fantastical shapes, and glowing orbs pulse around them, casting an otherworldly light. The scene bends reality with elongated stars and fluid forms, evoking a dreamlike exploration beyond the tangible universe.",
+      "original_long_description": "An astronaut in a sleek, reflective spacesuit floats effortlessly through a cosmic dreamscape, surrounded by vibrant, swirling galaxies and ethereal nebulae. His helmet visor reflects a kaleidoscope of colors, blending the deep blues, purples, and pinks of the universe. Strange, otherworldly creatures with luminescent bodies and elongated forms drift past, adding to the surreal atmosphere. The astronaut reaches out, touching a floating, glowing orb that pulses with energy, causing ripples of light to cascade through the surrounding space. Stars twinkle like distant, mystical eyes, and the entire scene feels like a fantastical voyage through an artist's imagination.",
+      "dimension": ["appearance_style"],
+      "test_purpose": "To test the model,s ability to generate surreal space scenes with abstract forms and fluid motion, pushing creative boundaries.",
+      "Improvement": "Removed specific creature references to focus on abstract elements, enhancing surreal flexibility, and simplified interactions for broader video interpretation."
+  }
+]

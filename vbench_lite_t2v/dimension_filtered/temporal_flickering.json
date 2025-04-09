@@ -1,0 +1,72 @@
+[
+    {
+        "id": "001",
+        "original_id": "001",
+        "description": "In a still frame, a stop sign",
+        "long_description": "A stop sign stands at a quiet intersection, its red color slightly faded. The surrounding area is calm, with trees and houses in the background. The sky is clear, and the light is natural, suggesting a peaceful day. The scene is static, with no movement or activity.",
+        "original_long_description": "In a still frame, a weathered stop sign stands prominently at a quiet intersection, its red paint slightly faded and edges rusted, evoking a sense of time passed. The sign is set against a backdrop of a serene suburban street, lined with tall, leafy trees whose branches gently sway in the breeze. The sky above is a soft gradient of twilight hues, transitioning from deep blue to a warm orange, suggesting the end of a peaceful day. The surrounding area is calm, with neatly trimmed lawns and quaint houses, their windows glowing softly with indoor lights, adding to the tranquil atmosphere.",
+        "dimension": ["temporal_flickering"],
+        "test_purpose": "To evaluate the model's ability to maintain a static urban scene without introducing flickering or inconsistencies over time.",
+        "Improvement": "The new description removes specific details about the sign's weathering and the twilight sky, allowing the model to generate various stop sign settings while focusing on the stillness of the scene."
+    },
+    {
+        "id": "002",
+        "original_id": "008",
+        "description": "A tranquil tableau of bedroom",
+        "long_description": "A bedroom is bathed in soft light, with a bed neatly made and furniture arranged tidily. The room is quiet and still, with no signs of movement. The window lets in natural light, casting gentle shadows. The decor is simple, creating a peaceful atmosphere.",
+        "original_long_description": "A serene bedroom bathed in soft morning light, featuring a large window with sheer white curtains gently swaying in the breeze. The centerpiece is a plush, king-sized bed adorned with crisp white linens and a cozy, knitted throw blanket in a muted pastel hue. Beside the bed, a rustic wooden nightstand holds a vintage lamp casting a warm, inviting glow. A potted plant adds a touch of greenery, while a framed painting of a peaceful landscape hangs above the headboard. The room exudes calm with its neutral color palette, soft textures, and minimalist decor, creating a perfect sanctuary for rest and relaxation.",
+        "dimension": ["temporal_flickering"],
+        "test_purpose": "To assess the model's capability to handle a static interior scene, ensuring consistency in lighting and object placement over time.",
+        "Improvement": "By generalizing the bedroom's features, the model can generate different bedroom layouts and styles, testing its ability to maintain stillness across various interpretations."
+    },
+    {
+        "id": "003",
+        "original_id": "009",
+        "description": "A tranquil tableau of cliff",
+        "long_description": "A cliff stands tall against a calm sea, with waves gently lapping at its base. The sky is clear, and the light is soft, highlighting the cliff's rugged texture. The scene is still, with no movement except for the distant waves. The landscape is serene and timeless.",
+        "original_long_description": "A breathtaking cliffside scene unfolds at dawn, with the first light of the sun casting a golden hue over the rugged, weathered rocks. The cliff, adorned with patches of vibrant green moss and small, resilient wildflowers, stands majestically against the backdrop of a calm, azure sea. Gentle waves lap at the base of the cliff, creating a soothing, rhythmic sound. Seagulls glide gracefully overhead, their calls echoing softly in the crisp morning air. The sky, painted in soft pastels of pink and orange, gradually brightens, illuminating the serene landscape and highlighting the intricate textures of the cliff face.",
+        "dimension": ["temporal_flickering"],
+        "test_purpose": "To test the model's handling of a static natural landscape, ensuring the cliff and sea remain consistent without flickering.",
+        "Improvement": "Removing specifics about the time of day and wildlife allows the model to generate various cliff settings, focusing on the stillness of the scene."
+    },
+    {
+        "id": "004",
+        "original_id": "044",
+        "description": "In a still frame, the Parthenon's majestic Doric columns stand in serene solitude atop the Acropolis, framed by the tranquil Athenian landscape",
+        "long_description": "The Parthenon stands on the Acropolis, its columns tall and imposing. The surrounding landscape is quiet, with the city of Athens in the distance. The sky is clear, and the light is natural, highlighting the ancient structure's details. The scene is static, capturing a moment in time.",
+        "original_long_description": "In a still frame, the Parthenon's majestic Doric columns stand in serene solitude atop the Acropolis, bathed in the golden glow of the setting sun. The ancient stonework, weathered yet resilient, contrasts beautifully with the clear, azure sky above. The tranquil Athenian landscape stretches out below, with the city's whitewashed buildings and lush greenery creating a harmonious backdrop. The scene captures a timeless moment, where history and nature converge in perfect tranquility, evoking a sense of awe and reverence for this iconic symbol of ancient Greece.",
+        "dimension": ["temporal_flickering"],
+        "test_purpose": "To evaluate the model's ability to maintain consistency in a historical and architectural scene, ensuring the Parthenon remains static over time.",
+        "Improvement": "By not specifying the time of day or the exact landscape details, the model can generate different views of the Parthenon while testing its ability to keep the structure consistent."
+    },
+    {
+        "id": "005",
+        "original_id": "021",
+        "description": "A tranquil tableau of a bowl",
+        "long_description": "A bowl rests on a table, its surface smooth and reflective. The room is softly lit, with natural light coming through a window. The bowl is the focal point, with no other objects distracting from its simplicity. The scene is still, emphasizing the bowl's presence.",
+        "original_long_description": "A serene scene unfolds with a rustic wooden table bathed in soft, natural light from a nearby window. At the center, a handcrafted ceramic bowl, glazed in earthy tones of deep green and brown, sits gracefully. The bowl is filled with fresh, vibrant fruits—crimson apples, golden pears, and clusters of deep purple grapes—each piece meticulously arranged. The background features a blurred view of a lush garden, with hints of blooming flowers and verdant foliage, adding to the peaceful ambiance. The gentle play of light and shadow on the bowl and fruits creates a harmonious and calming visual experience.",
+        "dimension": ["temporal_flickering"],
+        "test_purpose": "To assess the model's capability to handle a simple, static object scene, ensuring the bowl remains consistent without flickering.",
+        "Improvement": "Generalizing the bowl and its contents allows the model to generate different types of bowls and settings, testing its ability to maintain object consistency."
+    },
+    {
+        "id": "006",
+        "original_id": "050",
+        "description": "A tranquil tableau of an ornate Victorian streetlamp standing on a cobblestone street corner, illuminating the empty night",
+        "long_description": "A Victorian streetlamp stands on a cobblestone street, its light casting a warm glow. The street is empty, with no movement or activity. The architecture around is historic, adding to the timeless feel. The scene is still, with the streetlamp as the focal point.",
+        "original_long_description": "A serene scene unfolds with an intricately designed Victorian streetlamp casting a warm, golden glow on a deserted cobblestone street corner. The lamp's ornate ironwork and glass panels reflect the craftsmanship of a bygone era. The soft light creates gentle shadows on the cobblestones, highlighting their uneven texture and age. Surrounding the streetlamp, the night is enveloped in a deep, velvety darkness, with only the faint outlines of nearby buildings and trees visible. The air is still, and the only sound is the distant rustle of leaves, adding to the peaceful ambiance of this timeless, nocturnal setting.",
+        "dimension": ["temporal_flickering"],
+        "test_purpose": "To test the model's handling of a static architectural element in a nighttime setting, ensuring the streetlamp and its light remain consistent.",
+        "Improvement": "By not specifying the exact design or the surrounding buildings, the model can generate various streetlamp scenes while focusing on the stillness of the night."
+    },
+    {
+        "id": "007",
+        "original_id": "053",
+        "description": "In a still frame, a tranquil Japanese tea ceremony room, with tatami mats, a delicate tea set, and a bonsai tree in the corner",
+        "long_description": "A Japanese tea ceremony room is arranged with tatami mats and a tea set on a low table. A bonsai tree sits in the corner, adding a touch of nature. The room is lit softly, creating a calm atmosphere. The scene is static, with no movement, emphasizing the room's tranquility.",
+        "original_long_description": "In a serene, still frame, a tranquil Japanese tea ceremony room is bathed in soft, natural light. The room features traditional tatami mats, meticulously arranged to create a sense of harmony. At the center, a delicate tea set with a beautifully crafted teapot and cups rests on a low wooden table, inviting a moment of calm and reflection. In the corner, a meticulously pruned bonsai tree adds a touch of nature's artistry, its miniature branches and leaves perfectly balanced. The walls are adorned with subtle, minimalist decor, enhancing the room's peaceful ambiance.",
+        "dimension": ["temporal_flickering"],
+        "test_purpose": "To evaluate the model's ability to maintain consistency in a culturally specific, static interior scene, ensuring the tea room remains unchanged over time.",
+        "Improvement": "Removing specifics about the tea set and decor allows the model to generate different interpretations of a tea ceremony room while testing its capability to keep the scene static."
+    }
+]

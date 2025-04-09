@@ -1,0 +1,75 @@
+[
+    {
+      "id": "001",
+      "original_id": "001",
+      "description": "Close up of grapes on a rotating table.",
+      "long_description": "Imagine a small turntable rotating slowly, displaying a tight cluster of ripe grapes front and center. Subtle studio lighting catches the sheen on each grape’s surface, highlighting their smooth texture and natural variations in color. As the table spins, the grapes gently shift, allowing tiny reflections and glimmers of moisture to come and go, drawing attention to their freshness and plumpness. This close-up setting emphasizes every curve and bead of condensation, conveying a sense of abundance and enticing realism.",
+      "original_long_description": "A close-up shot captures a cluster of plump, dewy grapes, glistening under soft studio lighting as they slowly rotate on a sleek, reflective table. The grapes, varying in shades of deep purple and rich green, showcase their smooth, taut skins and tiny droplets of moisture. As the table turns, the light dances across the grapes, highlighting their natural sheen and the subtle textures of their surfaces. The background remains a soft blur, ensuring the focus stays on the luscious, rotating grapes, evoking a sense of freshness and abundance.",
+      "dimension": [
+        "overall_consistency"
+      ],
+      "test_purpose": "Tests the model’s ability to handle extreme close-ups, surface reflections, and gradual rotation of an object under controlled lighting.",
+      "Improvement": "Refined the focus on visual details, ensuring subtle lighting and rotation remain primary, while keeping the language concise and open enough for diverse video generation outputs."
+    },
+    {
+      "id": "002",
+      "original_id": "003",
+      "description": "A storm trooper vacuuming the beach.",
+      "long_description": "Envision a lone stormtrooper from a distant galaxy methodically vacuuming a sandy shoreline under a clear sky. The waves roll in quietly behind, and occasional seagulls or beachgoers might pause to watch this odd scene unfold. Each pass of the vacuum cleaner leaves clean tracks on the sand, contrasting with the scattered seaweed and shells. The stormtrooper’s polished armor glistens in the sun, providing a humorous contrast between the mundane cleaning task and the iconic sci-fi uniform.",
+      "original_long_description": "A lone stormtrooper, clad in iconic white armor, stands on a sunlit beach, holding a futuristic vacuum cleaner. The scene opens with the stormtrooper methodically vacuuming the golden sand, the ocean waves gently lapping in the background. Seagulls fly overhead, casting fleeting shadows on the pristine shore. The stormtrooper's movements are precise and deliberate, contrasting humorously with the serene beach setting. As the camera zooms in, the details of the armor gleam under the bright sunlight, and the vacuum hums softly, creating an amusing juxtaposition of sci-fi and everyday life. The scene concludes with the stormtrooper pausing to look out at the horizon, the vast ocean stretching endlessly, blending the surreal with the mundane.",
+      "dimension": [
+        "overall_consistency"
+      ],
+      "test_purpose": "Checks the model's capacity to blend pop-culture elements with everyday tasks, ensuring comedic yet believable interactions between environment and character.",
+      "Improvement": "Shifted emphasis to a straightforward but comedic situation, allowing flexible camera angles and more direct comedic contrast without over-specifying each shot."
+    },
+    {
+      "id": "003",
+      "original_id": "016",
+      "description": "A cat wearing sunglasses and working as a lifeguard at a pool.",
+      "long_description": "Visualize a relaxed poolside scenario where a cool cat, perched on a high lifeguard stand, surveys the water while sporting a tiny pair of reflective sunglasses. Nearby swimmers enjoy the crystal-blue pool, occasionally glancing up at the feline sentinel. The cat might hold a whistle around its neck or idly wave a paw as if signaling instructions. Everything suggests a sunny day, with bright umbrellas, lounge chairs, and the occasional splash creating the leisurely setting for this unorthodox but charming lifeguard on duty.",
+      "original_long_description": "A cool cat, sporting sleek black sunglasses and a red lifeguard vest, sits confidently on a high lifeguard chair overlooking a sparkling blue pool. The feline's fur is a mix of orange and white, and its tail flicks with authority. In one scene, the cat scans the pool area with a serious expression, its sunglasses reflecting the shimmering water. Next, it holds a tiny whistle in its mouth, ready to spring into action. The final shot shows the cat perched on the edge of the pool, its paw dipping into the water, maintaining a vigilant watch over the swimmers, embodying the perfect blend of charm and responsibility.",
+      "dimension": [
+        "overall_consistency"
+      ],
+      "test_purpose": "Evaluates the model's ability to combine humor, anthropomorphic behavior, and a realistic pool environment with distinct color reflections and bright lighting.",
+      "Improvement": "Kept the comedic essence while simplifying the scenario, enabling the AI to emphasize the visual clash of a cat as a lifeguard and the summery atmosphere around the pool."
+    },
+    {
+      "id": "004",
+      "original_id": "053",
+      "description": "A future where humans have achieved teleportation technology",
+      "long_description": "Picture a sleek cityscape where glowing teleportation pads replace traditional doors. Commuters casually step onto these platforms, disappearing in a burst of light only to reappear miles away in an instant. Elevated walkways, futuristic architecture, and interactive holograms form the urban backdrop. Citizens move confidently through the day, unhurried by distance. Some might teleport home for lunch, while others pop into floating offices towering above the clouds. This everyday marvel showcases technological achievement seamlessly woven into daily life.",
+      "original_long_description": "In a sleek, futuristic cityscape, humans effortlessly teleport between towering skyscrapers, their sleek attire reflecting advanced technology. A woman in a silver jumpsuit and augmented reality glasses steps into a glowing teleportation pad, instantly vanishing in a burst of light. Moments later, she reappears in a bustling market filled with diverse, futuristic architecture and vibrant holographic displays. A man in a streamlined suit teleports from his high-tech office to a serene park, where floating drones maintain the lush greenery. The scene transitions to a family teleporting to a distant vacation spot, their expressions filled with awe and excitement, showcasing the seamless integration of teleportation into everyday life.",
+      "dimension": [
+        "overall_consistency"
+      ],
+      "test_purpose": "Tests the model's world-building capabilities and depiction of advanced technology within a believable futuristic society.",
+      "Improvement": "Condensed the scenario to highlight the core concept—everyday teleportation—while retaining enough environmental details to showcase a fully integrated futuristic culture."
+    },
+    {
+      "id": "005",
+      "original_id": "051",
+      "description": "A corgi's head depicted as an explosion of a nebula",
+      "long_description": "Visualize a corgi’s face merging with cosmic clouds in a dazzling display of swirling purples, blues, and pinks. Where the dog’s fur would normally appear, bright stardust and faint celestial lights take shape, accentuating the ears and muzzle. The eyes sparkle like twin galaxies, and wispy nebula-like formations extend outward, as though the corgi’s essence is fueling a miniature supernova. A sense of wonder unites the playful charm of a pet with the grandeur of space.",
+      "original_long_description": "A corgi's head, with its adorable features, transforms into a mesmerizing cosmic explosion. The fur seamlessly blends into swirling nebulae, with vibrant hues of deep blues, purples, and pinks. Stars and galaxies twinkle within the corgi's eyes, creating an ethereal glow. Wisps of cosmic dust and gas radiate outward, forming intricate patterns that mimic the corgi's fur texture. The background is a vast expanse of space, dotted with distant stars, enhancing the surreal and otherworldly atmosphere. The entire scene captures the whimsical fusion of a beloved pet and the grandeur of the universe.",
+      "dimension": [
+        "overall_consistency"
+      ],
+      "test_purpose": "Challenges the model to blend a recognizable animal form with galactic imagery, testing creative compositing and color transitions.",
+      "Improvement": "Focused on describing how the dog’s features meld into cosmic elements without fully restating the entire cosmic setting, offering the AI more generative freedom."
+    },
+    {
+      "id": "006",
+      "original_id": "087",
+      "description": "An epic tornado attacking above a glowing city at night, the tornado is made of smoke",
+      "long_description": "Envision a sprawling metropolis shining with neon-like lights while a towering, smoky tornado descends from ominous storm clouds. Wisps of thick, dark smoke swirl in place of the usual debris, coiling downward in a massive funnel. The city below reflects vibrant colors that illuminate the swirling mass, intensifying the dramatic contrast between artificial light and the furious darkness overhead. Sporadic flashes of lightning illuminate the tornado’s spine, underscoring the raw power of the approaching storm.",
+      "original_long_description": "A colossal tornado, swirling with dense, dark smoke, descends upon a vibrant, glowing cityscape at night. The city's lights, a mix of neon blues, purples, and pinks, illuminate the towering skyscrapers and bustling streets below. The tornado's smoky tendrils twist and churn, creating an ominous yet mesmerizing spectacle against the backdrop of the starry night sky. Lightning sporadically flashes within the tornado, casting eerie shadows and highlighting the chaotic beauty of the scene. The city's reflection shimmers on a nearby river, adding to the surreal and epic atmosphere of this dramatic encounter.",
+      "dimension": [
+        "overall_consistency"
+      ],
+      "test_purpose": "Assesses how the model handles large-scale atmospheric phenomena combined with intense lighting effects in a futuristic urban environment.",
+      "Improvement": "Emphasized the interplay of artificial city lights and the ominous smoke-based twister, ensuring the new prompt remains adaptable for various cinematic interpretations."
+    }
+  ]
+  

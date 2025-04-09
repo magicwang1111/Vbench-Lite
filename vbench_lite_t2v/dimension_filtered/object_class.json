@@ -1,0 +1,82 @@
+[
+    {
+        "id": "001",
+        "original_id": "001",
+        "description": "a person",
+        "long_description": "A person walks through a park, their footsteps steady on the gravel path. They wear casual clothing and carry a small backpack. The scene captures their full body in motion, with trees and benches in the background.",
+        "dimension": ["object_class"],
+        "test_purpose": "To assess the model's ability to generate videos depicting a person walking in a natural setting."
+    },
+    {
+        "id": "002",
+        "original_id": "002",
+        "description": "a bicycle",
+        "long_description": "A bicycle is ridden by a person along a city street. The cyclist pedals smoothly, and the wheels turn as they navigate past parked cars and pedestrians. The scene shows the bicycle in motion, with the rider's legs moving and the handlebars steering.",
+        "dimension": ["object_class"],
+        "test_purpose": "To assess the model's ability to generate videos of a person cycling, including pedal motion and steering."
+    },
+    {
+        "id": "003",
+        "original_id": "037",
+        "description": "a skateboard",
+        "long_description": "A skateboarder performs tricks in a skate park. They ollie over a ramp, their feet manipulating the board in mid-air before landing smoothly. The scene captures the dynamic movement of the skateboard and the skater's body.",
+        "dimension": ["object_class"],
+        "test_purpose": "To assess the model's ability to generate videos of skateboarding tricks, focusing on balance and aerial movements."
+    },
+    {
+        "id": "004",
+        "original_id": "034",
+        "description": "a kite",
+        "long_description": "A person flies a kite on a windy beach. They hold the string, pulling and releasing to keep the kite aloft. The kite soars high, its tail fluttering in the wind. The scene shows the person running and the kite dancing in the sky.",
+        "dimension": ["object_class"],
+        "test_purpose": "To assess the model's ability to generate videos of a person flying a kite, including arm movements and kite dynamics."
+    },
+    {
+        "id": "005",
+        "original_id": "079",
+        "description": "a toothbrush",
+        "long_description": "A person brushes their teeth in a bathroom. They move the toothbrush back and forth across their teeth, their hand gripping the handle. The scene captures the close-up of the brushing action and the person's face.",
+        "dimension": ["object_class"],
+        "test_purpose": "To assess the model's ability to generate videos of a person brushing their teeth, focusing on hand and mouth movements."
+    },
+    {
+        "id": "006",
+        "original_id": "049",
+        "description": "a sandwich",
+        "long_description": "A person eats a sandwich at a picnic table. They hold the sandwich with both hands, taking bites and chewing. The scene shows the sandwich being consumed, with crumbs falling and the person's mouth moving.",
+        "dimension": ["object_class"],
+        "test_purpose": "To assess the model's ability to generate videos of a person eating, including hand-to-mouth motion and chewing."
+    },
+    {
+        "id": "007",
+        "original_id": "064",
+        "description": "a laptop",
+        "long_description": "A person types on a laptop at a desk. Their fingers press the keys, and the screen displays changing text or images. The scene captures the laptop in use, with the person's hands and the screen visible.",
+        "dimension": ["object_class"],
+        "test_purpose": "To assess the model's ability to generate videos of a person using a laptop, including typing and screen interaction."
+    },
+    {
+        "id": "008",
+        "original_id": "076",
+        "description": "scissors",
+        "long_description": "A person uses scissors to cut paper on a table. They hold the scissors, opening and closing the blades to slice through the paper. The scene shows the cutting action and the paper being divided.",
+        "dimension": ["object_class"],
+        "test_purpose": "To assess the model's ability to generate videos of a person cutting with scissors, focusing on hand precision."
+    },
+    {
+        "id": "009",
+        "original_id": "073",
+        "description": "a book",
+        "long_description": "A person reads a book in a cozy chair. They turn the pages slowly, their eyes scanning the text. The scene captures the book being held and the pages flipping.",
+        "dimension": ["object_class"],
+        "test_purpose": "To assess the model's ability to generate videos of a person reading, including page turning and focus."
+    },
+    {
+        "id": "010",
+        "original_id": "030",
+        "description": "a frisbee",
+        "long_description": "A person throws a frisbee in a park. They grip the frisbee, swing their arm, and release it, watching it fly through the air. The scene shows the frisbee spinning and traveling, with the thrower's arm motion.",
+        "dimension": ["object_class"],
+        "test_purpose": "To assess the model's ability to generate videos of a person throwing a frisbee, including arm motion and frisbee flight."
+    }
+]

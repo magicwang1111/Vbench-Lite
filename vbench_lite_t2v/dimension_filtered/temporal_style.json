@@ -1,0 +1,72 @@
+[
+    {
+        "id": "001",
+        "original_id": "001",
+        "description": "A beautiful coastal beach in spring, waves lapping on sand, in super slow motion",
+        "long_description": "A serene coastal beach during springtime, with gentle waves rhythmically lapping against the sandy shore. The scene is captured in super slow motion, emphasizing the tranquil and soothing nature of the waves’ movement. The beach is pristine, with golden sand and clear blue water, and the spring season is evident through blooming flowers or fresh greenery in the background. The lighting is soft and natural, perhaps with the sun low on the horizon, casting a warm glow over the scene.",
+        "original_long_description": "A breathtaking coastal beach in spring, where gentle waves caress the golden sand in super slow motion. The scene captures the delicate dance of turquoise waters, each wave rolling gracefully and retreating with a soft whisper. The shoreline is adorned with scattered seashells and smooth pebbles, glistening under the warm sunlight. In the background, vibrant wildflowers bloom along the dunes, adding splashes of color to the serene landscape. Seagulls glide effortlessly above, their calls blending harmoniously with the rhythmic sound of the waves. The entire scene exudes tranquility and the rejuvenating essence of springtime by the sea.",
+        "dimension": ["temporal_style"],
+        "test_purpose": "To evaluate the model's ability to generate super slow motion effects in a natural landscape setting, testing its capacity to render smooth, detailed motion over an extended timeframe.",
+        "Improvement": "Simplified the description to focus on core elements (beach, waves, springtime, super slow motion) while omitting overly specific details like water color, seashells, or seagulls. This allows the AI more flexibility to generate diverse interpretations while preserving the intended atmosphere."
+    },
+    {
+        "id": "002",
+        "original_id": "012",
+        "description": "The bund Shanghai, zoom in",
+        "long_description": "The iconic Bund in Shanghai, captured with a zoom-in effect. The scene begins with a wide view of the historic waterfront, showcasing a blend of colonial architecture and modern skyscrapers across the Huangpu River. As the camera zooms in, it highlights details such as the ornate building facades, bustling promenade activity, or river reflections. The lighting reflects a vibrant day in Shanghai, with clear skies enhancing the urban energy.",
+        "original_long_description": "A breathtaking view of The Bund in Shanghai, captured at twilight, with the iconic skyline illuminated against the darkening sky. The camera begins with a wide shot, showcasing the historic colonial buildings on one side and the modern skyscrapers of Pudong on the other, separated by the shimmering Huangpu River. As the camera zooms in, the intricate details of the architecture become more pronounced, highlighting the blend of old and new. Neon lights reflect off the water, creating a mesmerizing dance of colors. The scene is bustling with people, capturing the vibrant energy of this iconic waterfront promenade.",
+        "dimension": ["temporal_style"],
+        "test_purpose": "To assess the model's capability to handle zoom-in effects in an urban setting, focusing on rendering architectural details and dynamic city life under varying scales.",
+        "Improvement": "Adjusted the time of day to a broader daylight setting, removing twilight and neon light specifics. This enables the AI to generate detailed urban landscapes under different lighting conditions, increasing flexibility."
+    },
+    {
+        "id": "003",
+        "original_id": "034",
+        "description": "A panda drinking coffee in a cafe in Paris, pan left",
+        "long_description": "A whimsical scene featuring a panda seated in a charming Parisian café, sipping coffee from a cup held in its paws. The camera pans left, revealing the café’s cozy interior with classic French touches like small tables and warm lighting, possibly framing a distant Eiffel Tower view through a window. The panda’s anthropomorphic presence adds a playful tone, with the atmosphere suggesting a quiet, inviting moment.",
+        "original_long_description": "In a charming Parisian café, a panda sits at a quaint wooden table, sipping coffee from a delicate porcelain cup. The scene begins with a close-up of the panda’s contented face, its black-and-white fur contrasting with the warm, ambient lighting of the café. As the camera pans left, the cozy interior is revealed, showcasing vintage posters, a chalkboard menu in French, and patrons engaged in quiet conversation. The panda, dressed in a stylish beret and scarf, gazes out the window at the bustling Paris streets, capturing the essence of a serene morning in the heart of the city.",
+        "dimension": ["temporal_style"],
+        "test_purpose": "To evaluate the model's ability to generate a panning movement (left) in a fantastical, cross-cultural setting, testing its handling of surreal characters and detailed interiors.",
+        "Improvement": "Reduced specificity of décor (e.g., vintage posters, chalkboard) and panda attire (e.g., beret, scarf), allowing the AI to vary the café’s design and character presentation while maintaining the whimsical essence."
+    },
+    {
+        "id": "004",
+        "original_id": "056",
+        "description": "Gwen Stacy reading a book, tilt up",
+        "long_description": "Gwen Stacy, a young woman with blonde hair, is absorbed in reading a book in a quiet setting. The camera tilts up from the book to her face, capturing her focused expression and the calm atmosphere. The environment—perhaps a library, cozy room, or outdoor bench—features subtle background elements that enhance the mood without overshadowing her.",
+        "original_long_description": "Gwen Stacy, with her signature blonde hair tied back in a ponytail, sits in a cozy, sunlit room, engrossed in a thick, leather-bound book. She wears a casual yet stylish outfit: a light blue sweater, dark jeans, and black ankle boots. The camera starts at her hands, delicately turning a page, revealing her neatly painted nails. As the camera tilts up, it captures her focused expression, her eyes scanning the text with curiosity and intensity. The warm sunlight filters through a nearby window, casting a soft glow on her face, highlighting her serene and studious demeanor. The scene ends with a close-up of her thoughtful smile, suggesting a moment of discovery or reflection.",
+        "dimension": ["temporal_style"],
+        "test_purpose": "To test the model's capability to handle tilt-up movements, focusing on character expression and setting consistency during vertical transitions.",
+        "Improvement": "Generalized the setting and attire, removing specifics like clothing details and room features (e.g., sunlight, nails), enabling the AI to depict Gwen in varied contexts while testing character consistency."
+    },
+    {
+        "id": "005",
+        "original_id": "078",
+        "description": "A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, with an intense shaking effect",
+        "long_description": "A couple in elegant evening attire walks home through an urban street at night when a heavy downpour begins. Clutching umbrellas, they face intense rain, depicted with a shaking effect that conveys the storm’s chaos. Streetlights reflect off wet pavement, and their expressions blend surprise with amusement, highlighting a dynamic, weather-driven moment.",
+        "original_long_description": "A sophisticated couple, dressed in elegant evening attire, navigates through a bustling city street under a heavy downpour. The man, in a sharp black tuxedo, and the woman, in a stunning red gown, both clutch black umbrellas that struggle against the intense rain and wind. The scene is dramatically intensified by a shaking effect, capturing the chaos of the storm. Raindrops cascade off their umbrellas, and their formal wear clings to them, soaked. Streetlights cast a shimmering glow on the wet pavement, and the couple’s determined expressions reveal their resolve to reach home despite the tempestuous weather.",
+        "dimension": ["temporal_style"],
+        "test_purpose": "To assess the model's ability to generate an intense shaking effect in a dynamic, weather-affected scene, testing its rendering of chaotic motion with human subjects.",
+        "Improvement": "Simplified attire and street details (e.g., specific colors, bustling activity), focusing on the shaking effect and core elements (rain, umbrellas). This allows varied interpretations of the urban scene and character reactions."
+    },
+    {
+        "id": "006",
+        "original_id": "089",
+        "description": "An astronaut flying in space, featuring a steady and smooth perspective",
+        "long_description": "An astronaut floats in the vastness of space, captured with a steady and smooth camera perspective that emphasizes the serene, weightless environment. Wearing a spacesuit, the astronaut moves slowly against a backdrop of stars and celestial bodies, conveying calm and wonder in an expansive cosmic setting.",
+        "original_long_description": "An astronaut, clad in a pristine white spacesuit adorned with mission patches, gracefully floats through the vast expanse of space. The camera captures a steady, smooth perspective, highlighting the serene and boundless cosmos. Stars twinkle in the background, and distant galaxies add a sense of infinite wonder. The astronaut’s visor reflects the Earth below, a blue and green marble suspended in the void. As they maneuver with gentle precision, the silence of space contrasts with the breathtaking visuals, creating a sense of peaceful isolation. The scene evokes awe and the boundless possibilities of exploration.",
+        "dimension": ["temporal_style"],
+        "test_purpose": "To evaluate the model's capability to maintain a steady and smooth perspective in a space setting, testing its ability to render stable, coherent motion in a vast environment.",
+        "Improvement": "Removed specifics like spacesuit details (e.g., patches, Earth reflection), focusing on the steady perspective and space’s atmosphere. This enables diverse cosmic visualizations while testing camera stability."
+    },
+    {
+        "id": "007",
+        "original_id": "100",
+        "description": "Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, racking focus",
+        "long_description": "A winter landscape of snow-covered rocky mountain peaks and deep canyons, captured with racking focus to shift between foreground and background. The rugged mountains loom large, their snowy contours stark, while the shadowed canyons twist below, adding depth and mystery to the vast, dynamic terrain.",
+        "original_long_description": "Majestic snow-covered rocky mountain peaks tower over deep, shadowed canyons, creating a breathtaking winter landscape. The camera captures the rugged terrain, where the snow blankets the jagged rocks, adding a serene contrast to the harsh environment. The canyons twist and bend through the high-elevated peaks, their depths shrouded in mystery and shadow. As the focus shifts, the intricate details of the snow-laden cliffs and the winding paths of the canyons come into sharp relief, highlighting the grandeur and isolation of this remote wilderness. The scene evokes a sense of awe and wonder, showcasing nature’s raw beauty and power.",
+        "dimension": ["temporal_style"],
+        "test_purpose": "To test the model's ability to handle racking focus in a complex natural landscape, evaluating its capacity to manage depth of field and detail transitions.",
+        "Improvement": "Streamlined the description to emphasize racking focus and key landscape features, removing specifics (e.g., jagged rocks, awe evocation), allowing the AI to interpret terrain details while testing focus shifts."
+    }
+]

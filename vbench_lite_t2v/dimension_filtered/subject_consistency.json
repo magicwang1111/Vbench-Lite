@@ -1,0 +1,72 @@
+[
+    {
+        "id": "001",
+        "original_id": "001",
+        "description": "a person swimming in ocean",
+        "long_description": "A person swims in the ocean, their movements fluid and graceful. The water is clear, allowing visibility of the underwater environment. The sun shines brightly, creating reflections on the water's surface. The swimmer's strokes are steady and rhythmic, showcasing their skill and comfort in the water. The ocean extends to the horizon, with the sky and sea blending together.",
+        "original_long_description": "A lone swimmer, clad in a sleek black wetsuit, glides effortlessly through the crystal-clear turquoise waters of the vast ocean. The sun casts shimmering patterns on the surface, illuminating the underwater world teeming with vibrant marine life. As the swimmer's arms slice through the water, schools of colorful fish dart around, creating a mesmerizing dance of nature. The camera captures close-up shots of the swimmer's determined face, droplets of water glistening on their skin, and the rhythmic motion of their strokes. The serene expanse of the ocean stretches out to the horizon, where the sky meets the sea in a seamless blend of blue hues.",
+        "dimension": ["subject_consistency"],
+        "test_purpose": "To evaluate the model's ability to maintain consistency in a person's appearance and swimming motion in a dynamic, natural environment.",
+        "Improvement": "The new description removes specific details about the swimmer's attire and the marine life, allowing the model to generate a variety of swimmers and ocean settings while focusing on the consistency of the swimming action."
+    },
+    {
+        "id": "002",
+        "original_id": "002",
+        "description": "a person giving a presentation to a room full of colleagues",
+        "long_description": "A person stands in front of a group of colleagues in a conference room, delivering a presentation. The room is bright and professional, with a screen displaying visual aids. The presenter uses gestures to emphasize points, and the audience is engaged, some taking notes. The atmosphere is collaborative, with interaction between the presenter and the audience.",
+        "original_long_description": "A confident individual stands at the front of a modern conference room, dressed in a crisp white shirt, navy blazer, and black slacks, holding a sleek remote. The room is filled with attentive colleagues seated at a long, polished wooden table, their eyes focused on a large screen displaying vibrant slides. The presenter gestures animatedly, emphasizing key points, while the audience, diverse in age and attire, nods and takes notes. The room is well-lit, with large windows allowing natural light to flood in, and the atmosphere is one of engagement and collaboration. The presentation continues with the speaker moving around, engaging with the audience, and answering questions, fostering a dynamic and interactive environment.",
+        "dimension": ["subject_consistency"],
+        "test_purpose": "To assess the model's capability to keep the presenter and the audience consistent in a professional setting with multiple subjects.",
+        "Improvement": "By generalizing the room and attire, the model can generate different conference room settings and diverse audiences, testing its ability to maintain subject consistency across various interpretations."
+    },
+    {
+        "id": "003",
+        "original_id": "009",
+        "description": "a bicycle gliding through a snowy field",
+        "long_description": "A bicycle moves smoothly through a snowy field, leaving tracks in the fresh snow. The rider is dressed warmly, pedaling with ease. The winter landscape is quiet and serene, with snow covering the ground and trees in the distance. The light is soft, enhancing the peaceful atmosphere.",
+        "original_long_description": "A lone bicycle, with its sleek frame and black tires, glides effortlessly through a vast, snow-covered field under a pale winter sky. The rider, bundled in a red parka, black gloves, and a woolen hat, pedals steadily, leaving a delicate trail in the pristine snow. The scene captures the quiet serenity of the landscape, with snowflakes gently falling and the distant silhouette of bare trees lining the horizon. The bicycle's tires crunch softly against the snow, creating a rhythmic sound that complements the peaceful ambiance. As the rider continues, the sun begins to set, casting a warm, golden glow over the snowy expanse, highlighting the beauty of the winter journey.",
+        "dimension": ["subject_consistency"],
+        "test_purpose": "To test the model's handling of a bicycle and rider in an unusual environment, ensuring the bicycle and rider remain consistent throughout the motion.",
+        "Improvement": "Removing specifics about the bicycle and rider's appearance allows for testing consistency across different bicycle types and rider outfits in a snowy setting."
+    },
+    {
+        "id": "004",
+        "original_id": "022",
+        "description": "an airplane taking off",
+        "long_description": "An airplane prepares for takeoff on a runway, its engines powering up. The plane accelerates, lifting off the ground and ascending into the sky. The scene captures the moment of takeoff, with the aircraft climbing steadily. The background shows the airport and the sky, which can be clear or with clouds.",
+        "original_long_description": "A sleek, modern airplane, painted in a striking blue and white livery, taxis down the runway of a bustling airport, engines roaring with power. The camera captures a close-up of the landing gear lifting off the ground, followed by a wide shot of the aircraft ascending against a backdrop of a vibrant sunset, with hues of orange, pink, and purple painting the sky. As the plane climbs higher, the cityscape below becomes a mosaic of twinkling lights, and the horizon stretches infinitely. The final shot shows the airplane soaring gracefully into the clouds, leaving a trail of vapor against the twilight sky, symbolizing the beginning of a new journey.",
+        "dimension": ["subject_consistency"],
+        "test_purpose": "To evaluate the model's ability to consistently depict an airplane during the complex action of taking off.",
+        "Improvement": "By not specifying the airplane's appearance or the background, the model can generate various types of airplanes and airport settings, focusing on the consistency of the takeoff sequence."
+    },
+    {
+        "id": "005",
+        "original_id": "040",
+        "description": "a bird building a nest from twigs and leaves",
+        "long_description": "A bird collects twigs and leaves, using them to build a nest in a tree. The bird works diligently, weaving the materials together with care. The tree provides a natural setting, with sunlight highlighting the nest's construction. The scene shows the bird's effort and skill in creating its home.",
+        "original_long_description": "A vibrant robin with a striking red breast flutters gracefully among the branches of a tall oak tree, meticulously gathering twigs and leaves in its beak. The scene shifts to a close-up of the bird's delicate claws as it weaves the materials into a sturdy nest, each movement precise and purposeful. Sunlight filters through the dense foliage, casting a warm, golden glow on the intricate structure taking shape. The bird pauses momentarily, its keen eyes surveying its work before darting off to collect more supplies. The final shot reveals the completed nest, nestled securely among the branches, a testament to the bird's dedication and craftsmanship.",
+        "dimension": ["subject_consistency"],
+        "test_purpose": "To assess the model's capability to maintain consistency in a bird's appearance and its nest-building actions.",
+        "Improvement": "Generalizing the bird and tree types allows the model to generate different species of birds and various tree settings, testing its ability to keep the bird and its actions consistent."
+    },
+    {
+        "id": "006",
+        "original_id": "051",
+        "description": "a horse galloping across an open field",
+        "long_description": "A horse gallops across an open field, its mane flowing in the wind. The field is expansive, with grass and possibly some hills or trees in the background. The horse moves with speed and power, showcasing its natural grace. The lighting is natural, enhancing the scene's beauty.",
+        "original_long_description": "A majestic chestnut horse with a flowing mane gallops freely across a vast, sunlit meadow, its powerful muscles rippling under a clear blue sky. The scene captures the horse's grace and strength as it moves effortlessly through the tall, golden grass, which sways gently in the breeze. The camera zooms in to reveal the horse's determined eyes and flaring nostrils, emphasizing its raw energy and spirit. As it continues to gallop, the background transitions to a picturesque landscape with rolling hills and distant mountains, enhancing the sense of freedom and boundless adventure. The video concludes with a wide shot of the horse silhouetted against a stunning sunset, its silhouette embodying the essence of untamed beauty.",
+        "dimension": ["subject_consistency"],
+        "test_purpose": "To test the model's handling of a horse in motion across an open field, ensuring the horse remains consistent in appearance and movement.",
+        "Improvement": "By removing specifics about the horse's color and the field's details, the model can generate different horses and field settings, focusing on the consistency of the galloping action."
+    },
+    {
+        "id": "007",
+        "original_id": "066",
+        "description": "a bear hunting for prey",
+        "long_description": "A bear moves through a forest, searching for prey. The forest is dense and natural, with trees, underbrush, and possibly a stream or other features. The bear is alert, using its senses to detect potential food. The scene may include the bear stalking or chasing its prey, showcasing its hunting behavior.",
+        "original_long_description": "A massive grizzly bear prowls through a dense, misty forest, its fur glistening with morning dew. The bear's powerful muscles ripple beneath its thick coat as it moves silently, its keen eyes scanning the underbrush for any signs of movement. The forest is alive with the sounds of rustling leaves and distant bird calls, creating an atmosphere of tense anticipation. The bear pauses, sniffing the air, its breath visible in the cool morning mist. Suddenly, it spots a deer grazing nearby, its ears twitching nervously. The bear crouches low, its eyes locked on its prey, and then, with a burst of speed, it charges forward, the forest floor trembling under its weight. The chase is swift and intense, the bear's powerful strides closing the distance between predator and prey.",
+        "dimension": ["subject_consistency"],
+        "test_purpose": "To evaluate the model's ability to consistently depict a bear during a hunting sequence in a forest environment.",
+        "Improvement": "Generalizing the bear type and the prey allows the model to generate various bear species and different prey, testing its capability to maintain the bear's consistency throughout the hunting action."
+    }
+]

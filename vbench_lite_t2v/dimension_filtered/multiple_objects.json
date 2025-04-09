@@ -1,0 +1,92 @@
+[
+    {
+        "id": "001",
+        "original_id": "081",
+        "description": "a person and a toothbrush",
+        "long_description": "A person stands in a bathroom, holding a toothbrush. They apply toothpaste to the brush and begin brushing their teeth, moving the brush back and forth. The scene captures the person's hand movements and facial expressions as they brush.",
+        "dimension": ["multiple_objects"],
+        "test_purpose": "To assess the model's ability to generate videos of personal hygiene actions, focusing on hand movements and facial expressions.",
+        "selection_reason": "This prompt explicitly includes a person performing a common daily action (brushing teeth), making it ideal for testing human motion and interaction with a small object."
+    },
+    {
+        "id": "002",
+        "original_id": "080",
+        "description": "a person and a hair drier",
+        "long_description": "A person holds a hair drier and uses it to dry their hair. The scene shows the drier blowing air, the person's hair moving, and their expression as they style their hair.",
+        "dimension": ["multiple_objects"],
+        "test_purpose": "To evaluate the model's capability to depict personal care activities, including the interaction with appliances and the resulting effects on the person.",
+        "selection_reason": "Another explicit human action (drying hair) is included, diversifying the personal care category and testing the model's ability to handle dynamic effects like moving hair and airflow."
+    },
+    {
+        "id": "003",
+        "original_id": "082",
+        "description": "a person and a sink",
+        "long_description": "A person stands at a sink, turns on the faucet, and washes their hands or face. The water flows, and the person uses soap, lathers, and rinses. The scene captures the water and the person's actions.",
+        "dimension": ["multiple_objects"],
+        "test_purpose": "To test the model's ability to generate videos of everyday washing activities, including water dynamics and hand movements.",
+        "selection_reason": "This prompt completes a trio of personal care actions, adding washing with water dynamics, which challenges the model to render fluid motion alongside human activity."
+    },
+    {
+        "id": "004",
+        "original_id": "015",
+        "description": "a laptop and a remote",
+        "long_description": "A laptop is open on a table, displaying a video or image on its screen. Nearby, a remote control is used to adjust a device, such as a TV or stereo. The scene shows the laptop screen changing and the remote being pressed.",
+        "dimension": ["multiple_objects"],
+        "test_purpose": "To assess the model's capability to depict technology use and interaction with multiple devices.",
+        "selection_reason": "Implies a person using technology (e.g., watching TV or working), diversifying into modern daily activities and testing the model's ability to show screen changes and button pressing."
+    },
+    {
+        "id": "005",
+        "original_id": "019",
+        "description": "a book and a clock",
+        "long_description": "A book is open on a desk, with pages turning slowly. Beside it, a clock's hands move, indicating time passing. The scene captures the book and clock in a quiet setting.",
+        "dimension": ["multiple_objects"],
+        "test_purpose": "To evaluate the model's ability to generate videos with subtle movements and a sense of time passage.",
+        "selection_reason": "Suggests a person reading while aware of time, offering a quieter, intellectual activity that tests subtle motion (page turning) and temporal progression."
+    },
+    {
+        "id": "006",
+        "original_id": "021",
+        "description": "a backpack and an umbrella",
+        "long_description": "A person carries a backpack on their back and holds an umbrella open as they walk through a rainy environment. The scene shows the person walking, the umbrella shielding them from rain, and the backpack moving with their steps.",
+        "dimension": ["multiple_objects"],
+        "test_purpose": "To test the model's capability to depict outdoor activities and weather conditions, including human movement and object interactions.",
+        "selection_reason": "Implies an outdoor activity (walking in rain), diversifying into environmental interaction and testing the model's ability to render weather effects and coordinated motion."
+    },
+    {
+        "id": "007",
+        "original_id": "038",
+        "description": "a tennis racket and a bottle",
+        "long_description": "A person holds a tennis racket and swings it, perhaps hitting a ball. They then pick up a bottle and drink from it. The scene captures the racket's movement and the person drinking.",
+        "dimension": ["multiple_objects"],
+        "test_purpose": "To assess the model's ability to generate sports-related actions and object interactions.",
+        "selection_reason": "Represents a sports activity (playing tennis and hydrating), testing physical motion and object use in a dynamic setting, broadening the range of human actions."
+    },
+    {
+        "id": "008",
+        "original_id": "064",
+        "description": "a sandwich and a book",
+        "long_description": "A person sits at a table, eating a sandwich and reading a book. They take bites of the sandwich and turn pages of the book. The scene shows the person eating and reading.",
+        "dimension": ["multiple_objects"],
+        "test_purpose": "To evaluate the model's capability to depict everyday activities like eating and reading, focusing on hand movements and object interactions.",
+        "selection_reason": "Combines eating and reading, a common daily scenario that tests multi-tasking and detailed hand-object interactions, adding variety to mundane activities."
+    },
+    {
+        "id": "009",
+        "original_id": "044",
+        "description": "a car and a motorcycle",
+        "long_description": "A car and a motorcycle are driving on a road. The car moves steadily, while the motorcycle weaves or speeds past. The scene captures both vehicles in motion.",
+        "dimension": ["multiple_objects"],
+        "test_purpose": "To test the model's ability to generate videos with multiple moving vehicles and their interactions on a road.",
+        "selection_reason": "Implies human-driven transportation (driving/riding), diversifying into vehicular motion and testing complex object interactions without explicitly showing a person."
+    },
+    {
+        "id": "010",
+        "original_id": "072",
+        "description": "an oven and scissors",
+        "long_description": "In a kitchen, scissors are used to cut ingredients or packaging. Then, the oven door opens, and a dish is placed inside or taken out. The scene shows the scissors cutting and the oven in use.",
+        "dimension": ["multiple_objects"],
+        "test_purpose": "To assess the model's capability to depict kitchen activities and object interactions, including cutting and cooking processes.",
+        "selection_reason": "Suggests cooking or crafting (e.g., preparing food), offering a creative indoor activity that tests sequential actions and appliance use."
+    }
+]

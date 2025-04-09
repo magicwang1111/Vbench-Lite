@@ -1,0 +1,52 @@
+[
+  {
+      "id": "001",
+      "original_id": "001",
+      "description": "a bicycle on the left of a car, front view",
+      "long_description": "A bicycle is positioned to the left of a car, both facing forward. The scene is viewed from the front, showing the bicycle and car side by side. The bicycle has a standard design with handlebars and pedals, while the car is a typical sedan. The background can include a road or street setting.",
+      "original_long_description": "A sleek, modern bicycle with a matte black frame and thin tires stands to the left of a shiny, red sports car, both positioned on a quiet, tree-lined street. The bicycle's handlebars are slightly turned, and its shadow stretches across the pavement, hinting at the early morning sun. The car's polished surface reflects the surrounding greenery, creating a harmonious blend of nature and technology. The scene captures a moment of stillness, with the bicycle and car side by side, symbolizing the contrast between human-powered simplicity and high-speed luxury.",
+      "dimension": ["spatial_relationship"],
+      "test_purpose": "Test the AI's ability to accurately depict left-right spatial relationships between common vehicles.",
+      "Improvement": "The new description is less restrictive, allowing for various types of bicycles and cars, and different street settings, rather than specifying colors and exact scene details."
+  },
+  {
+      "id": "002",
+      "original_id": "011",
+      "description": "a bird on the left of a cat, front view",
+      "long_description": "A bird is perched to the left of a cat, both facing forward. The scene is captured from the front, with the bird and cat visible. The bird can be of any common species, and the cat is a domestic cat. The setting can be indoors or outdoors, with appropriate background elements.",
+      "original_long_description": "A sleek black cat with piercing green eyes sits calmly, its fur glistening under the soft sunlight. To its left, a vibrant blue jay perches on a low branch, its feathers shimmering with shades of blue and white. The cat's gaze is fixed forward, exuding a sense of calm and curiosity, while the bird occasionally flutters its wings, adding a dynamic contrast. The background features a lush garden with blooming flowers and verdant foliage, creating a serene and picturesque scene. The interplay between the poised cat and the lively bird captures a moment of peaceful coexistence in nature.",
+      "dimension": ["spatial_relationship"],
+      "test_purpose": "Test the AI's capability to generate animals in specific spatial arrangements, ensuring correct positioning and interaction.",
+      "Improvement": "The new description permits different bird species and settings, unlike the original which specified a blue jay and a garden."
+  },
+  {
+      "id": "003",
+      "original_id": "039",
+      "description": "a toilet on the left of a hair drier, front view",
+      "long_description": "A toilet is positioned to the left of a hair dryer, both viewed from the front. The hair dryer can be mounted on the wall or placed on a surface. The scene should depict a bathroom setting, with the toilet and hair dryer in close proximity.",
+      "original_long_description": "In a pristine, modern bathroom, a sleek white toilet sits to the left of a wall-mounted hair dryer. The toilet, with its smooth, minimalist design, contrasts with the shiny chrome finish of the hair dryer. The hair dryer, positioned at an ergonomic height, features a coiled cord and a small control panel. The bathroom's white tiles and subtle lighting create a clean, serene atmosphere, highlighting the functional elegance of the fixtures. The scene captures the essence of contemporary bathroom design, blending utility with aesthetic appeal.",
+      "dimension": ["spatial_relationship"],
+      "test_purpose": "Assess the AI's performance in generating less common object combinations in a bathroom setting.",
+      "Improvement": "The new description allows for different placements of the hair dryer, providing more flexibility than the original wall-mounted scenario."
+  },
+  {
+      "id": "004",
+      "original_id": "051",
+      "description": "an oven on the top of a toaster, front view",
+      "long_description": "An oven is placed on top of a toaster, with both appliances visible from the front. The oven is a standard kitchen oven, and the toaster is a typical two-slot toaster. The scene shows the unusual stacking of these appliances, with the oven resting directly on the toaster. The background can be a kitchen counter or similar setting.",
+      "original_long_description": "A sleek, modern oven, with a stainless steel finish and digital display, sits atop a compact, retro-style toaster, creating an unusual yet intriguing kitchen setup. The oven's glass door reveals a warm, glowing interior, hinting at something delicious baking inside. Below, the toaster, with its shiny chrome exterior and classic lever, stands ready for use. The juxtaposition of the contemporary oven and the vintage toaster creates a unique visual contrast, blending old and new kitchen technologies in a harmonious, front-facing view.",
+      "dimension": ["spatial_relationship"],
+      "test_purpose": "Evaluate the AI's handling of unusual vertical spatial relationships between kitchen appliances.",
+      "Improvement": "The new description focuses on the spatial relationship without dictating the styles of the appliances or the kitchen decor."
+  },
+  {
+      "id": "005",
+      "original_id": "081",
+      "description": "a skateboard on the top of a surfboard, front view",
+      "long_description": "A skateboard is placed on top of a surfboard, with both items viewed from the front. The skateboard rests directly on the surfboard, which can be lying flat or at an angle. The scene can be set on a beach, in a skate park, or any suitable location.",
+      "original_long_description": "A vibrant skateboard, adorned with colorful graffiti art, balances perfectly on top of a sleek, azure surfboard. The front view captures the skateboard's intricate designs, with its wheels slightly angled, suggesting motion. The surfboard's glossy surface reflects the skateboard's vivid colors, creating a striking contrast. The background features a serene beach scene, with gentle waves lapping at the shore and a clear blue sky overhead, enhancing the dynamic and adventurous spirit of the composition. The entire setup exudes a sense of balance and harmony between land and sea sports.",
+      "dimension": ["spatial_relationship"],
+      "test_purpose": "Test the AI's ability to depict one object balanced on another, with flexibility in setting and positioning.",
+      "Improvement": "The new description offers multiple setting options and doesn't specify the exact balance or background, unlike the original beach scene."
+  }
+]

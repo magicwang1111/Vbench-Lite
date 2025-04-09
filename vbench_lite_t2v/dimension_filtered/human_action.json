@@ -1,0 +1,102 @@
+[
+    {
+        "id": "001",
+        "original_id": "001",
+        "description": "A person is riding a bike",
+        "long_description": "A person rides a bicycle along a winding path in a park, with trees and benches visible in the background. The cyclist is wearing casual clothing and a helmet, pedaling at a moderate speed. The scene captures the movement of the bicycle, the person's leg movements, and the surrounding environment.",
+        "original_long_description": "A spirited individual rides a vintage bicycle along a sunlit, tree-lined path, wearing a casual outfit of a white t-shirt, denim shorts, and sneakers. The scene captures the golden hour, with sunlight filtering through the leaves, casting dappled shadows on the ground. The rider's hair flows freely in the breeze, and a joyful smile lights up their face. As they pedal, the camera zooms in to reveal the intricate details of the bike's design, including its classic handlebars and shiny bell. The background features a serene park with blooming flowers and a distant lake, enhancing the sense of freedom and tranquility.",
+        "dimension": ["human_action"],
+        "test_purpose": "To assess the model's capability to generate coherent human motion, bicycle dynamics, and a realistic outdoor setting.",
+        "Improvement": "The new description focuses on the action and setting without specifying unnecessary details like the time of day or specific clothing colors, allowing for more flexibility in testing the model's generalization."
+    },
+    {
+        "id": "002",
+        "original_id": "020",
+        "description": "A person is playing piano",
+        "long_description": "A person sits at a grand piano in a spacious room, their fingers moving gracefully over the keys. The room has large windows letting in natural light, and there are music sheets on the piano. The scene shows the person's concentration and the piano's details.",
+        "original_long_description": "A young woman with long, flowing hair sits at a grand piano in a dimly lit room, her fingers gracefully dancing across the keys. She wears a flowing white dress that contrasts beautifully with the dark wood of the piano. The camera captures her intense concentration, her eyes closed as she loses herself in the music. The soft glow of a nearby lamp casts a warm light on her face, highlighting her serene expression. The room is adorned with vintage decor, including a framed painting and a vase of fresh flowers on a side table, adding to the intimate and timeless atmosphere.",
+        "dimension": ["human_action"],
+        "test_purpose": "To evaluate the model's ability to depict fine motor skills, musical instrument interaction, and indoor lighting.",
+        "Improvement": "The description emphasizes the action and setting without dictating specific emotions or piano types, making it more suitable for testing the model's versatility."
+    },
+    {
+        "id": "003",
+        "original_id": "090",
+        "description": "A person is dancing ballet",
+        "long_description": "A ballet dancer performs on a stage, executing elegant movements with poise and grace. The dancer is dressed in a traditional ballet costume, and the stage is lit with soft, focused lights. The scene captures the fluidity of the dance and the dancer's expressions.",
+        "original_long_description": "A graceful ballerina, dressed in a flowing white tutu and delicate pink pointe shoes, performs on a grand stage illuminated by soft, golden spotlights. Her movements are fluid and precise, each pirouette and arabesque executed with elegance and poise. The backdrop is a majestic theater with ornate, gilded decorations and plush red curtains. As she leaps into the air, her expression is one of serene concentration, capturing the audience's attention. The camera captures close-ups of her delicate footwork and the subtle emotions on her face, highlighting the beauty and discipline of ballet.",
+        "dimension": ["human_action"],
+        "test_purpose": "To test the model's capacity to generate complex human poses, dance movements, and stage lighting effects.",
+        "Improvement": "The new description avoids specifying particular dance moves or costume details, allowing the model to demonstrate its ability to handle various ballet styles."
+    },
+    {
+        "id": "004",
+        "original_id": "006",
+        "description": "A person is drawing",
+        "long_description": "A person sits at a table, sketching on a piece of paper with a pencil. The table is cluttered with art supplies, and there is a window nearby providing natural light. The scene shows the person's hand movements and the evolving sketch.",
+        "original_long_description": "A focused artist, wearing a cozy gray sweater, sits at a wooden desk in a warmly lit room, surrounded by art supplies. The camera zooms in on their hands, skillfully sketching intricate details on a large canvas with a fine-tipped pen. The scene shifts to show the artist's concentrated face, glasses perched on their nose, as they meticulously add shading to the drawing. The room's ambiance, filled with soft light from a nearby window and the gentle hum of background music, enhances the creative atmosphere. Finally, the artist steps back, revealing a stunning, detailed illustration of a serene forest landscape.",
+        "dimension": ["human_action"],
+        "test_purpose": "To assess the model's ability to render fine details of hand movements, art materials, and the creative process.",
+        "Improvement": "The description focuses on the action and environment without prescribing what is being drawn, enabling the model to showcase its creativity."
+    },
+    {
+        "id": "005",
+        "original_id": "007",
+        "description": "A person is petting animal (not cat)",
+        "long_description": "A person kneels beside a dog, gently stroking its fur. The dog is sitting calmly, and the setting is a cozy living room with a sofa and a rug. The scene captures the interaction between the person and the dog, highlighting their bond.",
+        "original_long_description": "A serene individual, dressed in a cozy, oversized sweater and jeans, kneels on a lush, green meadow, gently petting a friendly golden retriever. The dog's tail wags enthusiastically, its fur gleaming in the soft sunlight. The person’s face lights up with a warm smile, their hand moving tenderly over the dog's head and back. In the background, a picturesque landscape of rolling hills and blooming wildflowers adds to the tranquil scene. The golden retriever, with its tongue lolling out and eyes full of affection, leans into the person's touch, creating a heartwarming moment of connection and joy.",
+        "dimension": ["human_action"],
+        "test_purpose": "To evaluate the model's capability to generate realistic human-animal interactions, animal behavior, and indoor settings.",
+        "Improvement": "The new description specifies a dog instead of a generic animal to provide a clear focus, but avoids detailing the breed or specific actions, allowing for variation."
+    },
+    {
+        "id": "006",
+        "original_id": "008",
+        "description": "A person is eating watermelon",
+        "long_description": "A person sits at a picnic table, taking a bite of a slice of watermelon. The table is set outdoors, with a park or garden in the background. The scene shows the person's enjoyment and the juicy texture of the watermelon.",
+        "original_long_description": "A young woman with long, flowing hair sits on a rustic wooden bench in a sunlit garden, surrounded by vibrant flowers and lush greenery. She holds a large slice of juicy watermelon, its bright red flesh contrasting with the green rind. As she takes a bite, her eyes close in delight, savoring the sweet, refreshing taste. The sunlight filters through the leaves, casting dappled shadows on her face and the watermelon. She smiles, juice dripping down her chin, capturing the essence of a perfect summer day. The scene is filled with the sounds of birds chirping and leaves rustling in the gentle breeze.",
+        "dimension": ["human_action"],
+        "test_purpose": "To test the model's ability to depict eating actions, food textures, and outdoor environments.",
+        "Improvement": "The description emphasizes the action and setting without specifying the person's appearance or exact location, making it more generalizable."
+    },
+    {
+        "id": "007",
+        "original_id": "012",
+        "description": "A person is sweeping floor",
+        "long_description": "A person sweeps the floor of a kitchen with a broom, moving dust and debris into a pile. The kitchen has tiled floors, a sink, and cabinets. The scene captures the sweeping motion and the cleanliness of the environment.",
+        "original_long_description": "A diligent individual, dressed in a simple white t-shirt and blue jeans, sweeps the wooden floor of a cozy, sunlit room. The room is filled with warm, golden light streaming through large windows, casting gentle shadows on the floor. The person’s movements are rhythmic and purposeful, as they methodically clear away dust and debris. In the background, a comfortable armchair and a small bookshelf filled with colorful books add to the inviting atmosphere. The scene captures a moment of quiet, everyday care, with the soft sound of the broom against the floor enhancing the serene ambiance.",
+        "dimension": ["human_action"],
+        "test_purpose": "To assess the model's capacity to generate household chores, object interactions, and indoor settings.",
+        "Improvement": "The new description focuses on the action and setting without detailing the person's attire or specific kitchen layout, allowing for flexibility."
+    },
+    {
+        "id": "008",
+        "original_id": "023",
+        "description": "A person is laughing",
+        "long_description": "A person stands in a casual setting, such as a living room or park, laughing heartily. Their face shows genuine amusement, and their body language reflects joy. The scene captures the expression and the surrounding environment.",
+        "original_long_description": "A young woman with curly hair and a bright smile sits in a cozy, sunlit café, wearing a yellow sweater that radiates warmth. She throws her head back in genuine laughter, her eyes sparkling with joy. The background features rustic wooden tables, potted plants, and soft, ambient lighting, creating a welcoming atmosphere. Her laughter is contagious, filling the room with a sense of happiness and light-heartedness. The camera captures her face in close-up, highlighting the crinkles around her eyes and the pure delight in her expression, making the moment feel intimate and heartwarming.",
+        "dimension": ["human_action"],
+        "test_purpose": "To evaluate the model's ability to generate realistic facial expressions, emotional states, and contextual settings.",
+        "Improvement": "The description emphasizes the emotional expression without specifying the cause of laughter or detailed surroundings, making it more versatile."
+    },
+    {
+        "id": "009",
+        "original_id": "084",
+        "description": "A person is using computer",
+        "long_description": "A person sits at a desk, typing on a computer keyboard and looking at the screen. The desk has a monitor, mouse, and perhaps some stationery. The scene shows the person's focus and the computer interface.",
+        "original_long_description": "A focused individual sits at a sleek, modern desk in a dimly lit room, illuminated by the soft glow of a high-resolution computer screen. They wear a cozy, oversized sweater and glasses, reflecting the screen's light. The room is filled with the quiet hum of technology, with a minimalist setup including a mechanical keyboard and a wireless mouse. The person’s fingers dance swiftly across the keys, their face showing intense concentration. Behind them, a bookshelf filled with colorful books and a potted plant adds a touch of warmth to the tech-centric space. The scene captures the blend of human focus and digital interaction.",
+        "dimension": ["human_action"],
+        "test_purpose": "To test the model's capability to depict technology use, hand movements, and office or home settings.",
+        "Improvement": "The new description avoids specifying the type of computer or the content on the screen, allowing the model to handle various scenarios."
+    },
+    {
+        "id": "010",
+        "original_id": "018",
+        "description": "A person is skydiving",
+        "long_description": "A person is in mid-air, skydiving from an airplane, with a parachute deployed. The scene captures the vast sky, clouds, and the distant ground below. The person is wearing skydiving gear, and their expression shows exhilaration.",
+        "original_long_description": "A thrill-seeker in a vibrant red jumpsuit and sleek black helmet leaps from a plane, the vast expanse of the sky stretching endlessly around them. As they freefall, the camera captures their exhilarated expression, the wind rushing past, and the sun casting a golden glow on their gear. Below, a patchwork of green fields and winding rivers comes into view, growing larger as they descend. The skydiver performs a series of graceful spins and flips, showcasing their skill and joy. Finally, they deploy their parachute, the colorful canopy blossoming above them, slowing their descent as they glide smoothly towards the earth, the landscape below becoming more detailed and vivid.",
+        "dimension": ["human_action"],
+        "test_purpose": "To assess the model's ability to generate high-action scenes, aerial perspectives, and detailed equipment.",
+        "Improvement": "The description focuses on the action and setting without specifying the exact altitude or parachute design, providing room for the model to demonstrate its capabilities."
+    }
+]
